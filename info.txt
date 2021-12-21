@@ -1,0 +1,2 @@
+summary of big O:
+https://www.bigocheatsheet.com/
